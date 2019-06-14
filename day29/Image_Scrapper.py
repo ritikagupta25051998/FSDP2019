@@ -13,8 +13,8 @@ import os
 # set your Microsoft Cognitive Services API key along with (1) the
 # maximum number of results for a given search and (2) the group size
 # for results (maximum of 50 per request)
-API_KEY = "a797f30e2cf44df9a2c6bc9499dc6c6e"
-PATH = 'drive/dataset/Pokemons/'
+API_KEY = "df997c7c8ced4599899594fd5b9f50c4"
+PATH = 'C:\Useres\HP WORLD\Desktop\challanges\photos\'
 MAX_RESULTS = 250
 GROUP_SIZE = 50
 
