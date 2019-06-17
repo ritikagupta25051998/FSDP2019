@@ -89,6 +89,7 @@ for term in pokemons:
                     f = open(p, "wb")
                     f.write(r.content)
                     f.close()
+                    
                     total += 1
                     
                     # try to load the image from disk

@@ -6,6 +6,7 @@ Created on Fri Jun 14 14:40:41 2019
 """
 
 # import the necessary packages
+
 import requests
 import cv2
 import os
