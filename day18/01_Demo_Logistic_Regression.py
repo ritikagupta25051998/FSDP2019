@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 """
 We will look at data regarding coronary heart disease (CHD) in South Africa. The goal is to use different variables such as tobacco usage, family history, ldl cholesterol levels, alcohol usage, obesity and more.
 """
-heart = pd.read_csv('Heart_Disease.csv', sep=',', header=0)  
+heart = pd.read_csv('Heart_Disease.csv')  
 heart.head()
 
 labels = heart.iloc[:,9].values 
